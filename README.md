@@ -44,7 +44,7 @@
 ```
 จะปรากฎข้อความดังต่อไปนี้
 
-![run.png](img/run.png)
+![run.png](img/java.png)
 
 5. ทดลองเข้าใช้งาน Blynk Server 
     1. ผ่านหน้าเว็บไซต์โดยไปยัง URL
@@ -53,7 +53,7 @@
         ```
         จะปรากฎหน้าเว็บดังรูป
 
-        ![web.png](img/web.png)
+        ![web.png](img/Web.png)
 
         เข้าสู่ระบบโดยใช้ข้อมูลดังต่อไปนี้
         ```
@@ -66,20 +66,20 @@
 
         เมื่อเข้าสู่หน้าเว็บแล้วจะปรากฎหน้าเว็บดังต่อไปนี้
 
-        ![dashboard.png](img/dashboard.png)
+        ![dashboard](img/dashboard.png)
         
     2. ผ่าน Mobile Application
         1. เข้า Application Blynk เลือก Login
-        ![login.png](img/IMG_5325.PNG)
+        ![login](img/img1.jpg)
 
         2. เลือก Custom Server ดังรูป
-        ![customServer.png](img/IMG_5326.PNG)
+        ![customServer](img/img2.jpg)
 
         3. กรอก hostname และ port ดังรูป
-        ![hostPort.png](img/IMG_5327.PNG)
+        ![hostPort](img/img3.jpg)
 
         4. กรอก Email และ Password ดังรูป
-        ![emailPass.png](img/IMG_5329.PNG)
+        ![emailPass](img/img4.jpg)
 
         5. ปรากฎหน้าต่าง Dashboard อันหมายความว่า Server สามารถใช้งานได้ ดังรูป
-        ![dashboard.png](img/IMG_5330.PNG)
+        ![dashboard](img/img5.jpg)
